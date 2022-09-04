@@ -1,5 +1,6 @@
-## Hello! I am Kleytiane, computer student. 👋🍄
+## Hello! I am Kleytiane, computer student! :blossom::computer: BRASIL
 ### Welcome to my profile!
+
 
 <div> <a href="https://github.com/kleytianezz"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleytianezz&layout=compact&langs_count=7&theme=dracula"/> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kleytianezz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> </div>
   
@@ -8,7 +9,7 @@
   </a>
   
   
-## Rapazzz, vai stalkear e não vai seguir? Quem es tu coca cola do deserto hahaha?
+## Rapaz, vai stalkear e não vai seguir? Porque você é assim?
   <div align= "center">
    <img src= "https://user-images.githubusercontent.com/80768809/188324429-a5d99d08-de0b-4eee-ad92-47976ce214df.gif" width= "300" />
  </div>
