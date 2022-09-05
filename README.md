@@ -9,7 +9,7 @@
   </a>
   
   
-## Rapaz, vai stalkear e não vai seguir? Porque você é assim?
+## Rapaz, por que você não vai me seguir ? Você é assim sempre ou é só comigo??? Hahahaha
   <div align= "center">
    <img src= "https://user-images.githubusercontent.com/80768809/188324429-a5d99d08-de0b-4eee-ad92-47976ce214df.gif" width= "300" />
  </div>
