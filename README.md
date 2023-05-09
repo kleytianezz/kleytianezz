@@ -11,7 +11,7 @@
   <img align="center" alt="Python" height="48" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
 </div>
 
-<h1 align="esquerda">Minhas redes✨</h1>
+<h2 align="esquerda">Minhas redes✨</h2>
 
 <div> 
      <a href="https://instagram.com/kleytl" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
