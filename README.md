@@ -13,7 +13,7 @@
 
 <h1 align="esquerda">Minhas redes✨</h1>
 
-<div 
+<div> 
      <a href="https://instagram.com/kleytl" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
      <a href="https://www.linkedin.com/in/kleytianesilva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
