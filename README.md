@@ -5,7 +5,7 @@
 <h1 align="esquerda">Favorite Operational System🩷</h1>
 <img align="center" alt="Linux" height="48" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 
-<h1 align="esquerda">Learning...✨</h1>
+<h1 align="esquerda">Studying...✨</h1>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="48" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Bash" height="48" width="50" src= "https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg">
