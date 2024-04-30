@@ -1,6 +1,6 @@
 <h1 align="esquerda">Educational Background📚</h1>
 <h2 align="esquerda"> 
- 💻 Computer technician <br/> 🌐 Computer Network - (3/6)
+ 💻 Computer technician, ifrn <br/> 🌐 Computer Network - (3/6)
 
 <h1 align="esquerda">Favorite Operational System🩷</h1>
 <img align="center" alt="Linux" height="48" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
