@@ -1,4 +1,4 @@
-<h1 align="esquerda">OI, SEJA BEM VINDO!🩷</h1>
+<h2 align="esquerda">OI, SEJA BEM VINDO!🩷</h2>
 <h2 align="esquerda"> 
  💻 Técnica em informática, ifrn <br/> 🌐 Redes de computadores - (3/6)
 
