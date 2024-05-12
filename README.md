@@ -1,6 +1,6 @@
 <h2 align="esquerda">OI, SEJA BEM VINDO!🩷</h2>
 <h2 align="esquerda"> 
- 💻 Técnica em informática, ifrn <br/> 🌐 Redes de computadores - (3/6)
+ 💻 Técnica em informática <br/> 🌐 Cursando redes de computadores 
 
 <h2 align="esquerda">Sistema operacional🩷</h2>
 <img align="center" alt="Linux" height="48" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
