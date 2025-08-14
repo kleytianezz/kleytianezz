@@ -15,33 +15,13 @@
 </div>
 
 ---
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-ffc0cb?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-ffc0cb?style=for-the-badge&logo=python&logoColor=black" />
-  <img src="https://img.shields.io/badge/Linux-ffc0cb?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/MobaXterm-ffc0cb?style=for-the-badge&logo=windowsterminal&logoColor=black" />
-  <img src="https://img.shields.io/badge/Cisco_Academy-ffc0cb?style=for-the-badge&logo=cisco&logoColor=black" />
-  <img src="https://img.shields.io/badge/AutoCAD-ffc0cb?style=for-the-badge&logo=autodesk&logoColor=black" />
-  <img src="https://img.shields.io/badge/VS_Code-ffc0cb?style=for-the-badge&logo=visual-studio-code&logoColor=black" />
-  <img src="https://img.shields.io/badge/Shell_Script-ffc0cb?style=for-the-badge&logo=gnu-bash&logoColor=black" />
-</p>
-
----
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 12px; margin-top: 30px;">
   <img src="https://github.com/github-copilot/chat/attachments/f0250e5b-ea2d-47c4-a8ed-6119dff8a96e" 
        width="200px" alt="ajuntess" style="margin-top: -15px;" />
   <p style="margin: 0; font-style: italic; font-size: 18px; color: #555;">
-    <em>Obrigada pela visita! 🌼</em>
+    <em>Obrigada pela visita! hahaha🌼</em>
   </p>
   
 </div>
 
-<p align="center">
-  <a href="https://www.instagram.com/kleytl" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-ffc0cb?style=for-the-badge&logo=instagram&logoColor=black"/>
-  </a>
-  <a href="https://www.linkedin.com/in/kleytiane" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-ffc0cb?style=for-the-badge&logo=linkedin&logoColor=black"/>
-  </a>
-</p>
