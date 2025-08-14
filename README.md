@@ -10,9 +10,7 @@
   <h3>Oi, eu sou <strong>Kleytiane</strong>!</h3>🌺
  
   <em>
-    Técnica em Informática, e agora graduanda de Redes de Computadores 
-    Este é o meu cantinho digital onde compartilho uns repositórios humildes de vez em quando :)
-  </em> 💻
+    Técnica em Informática, e agora graduanda de Redes de Computadores
 
 </div>
 
